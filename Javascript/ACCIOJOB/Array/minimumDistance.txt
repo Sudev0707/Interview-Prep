@@ -1,0 +1,22 @@
+
+
+Minimum Distance Between Even Numbers
+Write a program to find out the shortest distance between two even positive integers in an array arr and print the distance. If there is one or zero even positive integer in the array then return -1.
+
+Note that if the index of one even positive integer is i and the index of another even positive integer is j then their distance will be |i-j|.
+
+Input Format
+First line contains n which is the size of the array.
+Second line contains n elements of the array.
+
+Output Format
+Return the shortest distance if more than one even positive integer is present or return -1 if only one or no even positive integer is present.
+
+Example 1
+Input
+
+2
+1 2
+Output
+
+-1
