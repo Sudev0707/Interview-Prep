@@ -1,0 +1,123 @@
+
+
+PYTHON BASICS 🚀
+=================
+
+1. What is Python?
+------------------
+• Python is a high-level, interpreted programming language.
+• Easy to read and beginner-friendly.
+• Used for web dev, AI, ML, automation, scripting, data science, etc.
+
+2. Print Statement
+------------------
+print("Hello, World!")
+
+run -> python basics.py 
+
+3. Comments
+-----------
+# This is a single-line comment
+"""
+This is a
+multi-line comment
+"""
+
+4. Variables
+------------
+x = 10
+name = "Sudev"
+pi = 3.14
+
+5. Data Types
+-------------
+int        → 10
+float      → 10.5
+str        → "hello"
+bool       → True / False
+list       → [1, 2, 3]
+tuple      → (1, 2, 3)
+set        → {1, 2, 3}
+dict       → {"name": "Sudev", "age": 20}
+
+6. Taking Input
+---------------
+name = input("Enter your name: ")
+print("Hello", name)
+
+7. Operators
+------------
+Arithmetic: + - * / % // **
+Comparison: == != > < >= <=
+Logical: and, or, not
+Assignment: = += -= *=
+
+8. Conditional Statements
+-------------------------
+age = 18
+if age >= 18:
+    print("Adult")
+else:
+    print("Minor")
+
+9. Loops
+--------
+# while loop
+i = 1
+while i <= 5:
+    print(i)
+    i += 1
+
+# for loop
+for i in range(1, 6):
+    print(i)
+
+10. Functions
+-------------
+def greet():
+    print("Hello")
+
+def add(a, b):
+    return a + b
+
+11. Lists
+---------
+items = [1, 2, 3, 4]
+items.append(5)
+items.remove(2)
+print(items[0])
+
+12. Dictionaries
+----------------
+person = {"name": "John", "age": 30}
+print(person["name"])
+person["city"] = "Delhi"
+
+13. String Methods
+------------------
+name = "python"
+name.upper()
+name.lower()
+name.title()
+len(name)
+
+14. Exception Handling
+----------------------
+try:
+    x = 10 / 0
+except ZeroDivisionError:
+    print("Cannot divide by zero")
+
+15. File Handling
+-----------------
+# Write file
+f = open("data.txt", "w")
+f.write("Hello Python")
+f.close()
+
+# Read file
+f = open("data.txt", "r")
+print(f.read())
+f.close()
+
+END OF PYTHON BASICS 🚀
