@@ -1,0 +1,58 @@
+
+python-learning/
+│
+├── 01_basics/
+│   ├── variables.py
+│   ├── datatypes.py
+│   ├── operators.py
+│   ├── input_output.py
+│   └── comments.py
+│
+├── 02_flow_control/
+│   ├── if_else.py
+│   ├── loops.py
+│   ├── break_continue.py
+│   └── pattern_programs.py
+│
+├── 03_functions/
+│   ├── functions_intro.py
+│   ├── lambda_functions.py
+│   ├── recursion.py
+│   └── modules_import.py
+│
+├── 04_datastructures/
+│   ├── lists.py
+│   ├── tuples.py
+│   ├── dictionaries.py
+│   ├── sets.py
+│   └── strings.py
+│
+├── 05_oop/
+│   ├── classes_objects.py
+│   ├── inheritance.py
+│   ├── polymorphism.py
+│   ├── encapsulation.py
+│   └── abstraction.py
+│
+├── 06_advanced/
+│   ├── file_handling.py
+│   ├── exceptions.py
+│   ├── generators.py
+│   ├── decorators.py
+│   └── comprehensions.py
+│
+├── 07_dsa/
+│   ├── arrays_lists.py
+│   ├── stack.py
+│   ├── queue.py
+│   ├── linked_list.py
+│   ├── tree.py
+│   ├── graph.py
+│   └── sorting_searching.py
+│
+└── 08_projects/
+    ├── calculator/
+    ├── todo_app/
+    ├── file_organizer/
+    ├── password_manager/
+    └── mini_games/
