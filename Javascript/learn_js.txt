@@ -1,0 +1,90 @@
+
+
+javascript-learning/
+│
+├── 01_basics/
+│   ├── variables.js
+│   ├── datatypes.js
+│   ├── operators.js
+│   ├── strings.js
+│   ├── numbers.js
+│   └── comments.js
+│
+├── 02_control_flow/
+│   ├── if_else.js
+│   ├── switch_case.js
+│   ├── loops.js
+│   ├── break_continue.js
+│   └── pattern_programs.js
+│
+├── 03_functions/
+│   ├── functions.js
+│   ├── arrow_functions.js
+│   ├── higher_order_functions.js
+│   ├── callbacks.js
+│   ├── recursion.js
+│   └── closures.js
+│
+├── 04_objects_arrays/
+│   ├── objects.js
+│   ├── arrays.js
+│   ├── array_methods.js
+│   ├── map_set.js
+│   ├── json.js
+│   └── destructuring.js
+│
+├── 05_dom/
+│   ├── selecting_elements.js
+│   ├── events.js
+│   ├── dom_manipulation.js
+│   ├── forms.js
+│   └── timer_apis.js
+│
+├── 06_async_js/
+│   ├── promises.js
+│   ├── async_await.js
+│   ├── fetch_api.js
+│   ├── event_loop.js
+│   └── setTimeout_setInterval.js
+│
+├── 07_oop_js/
+│   ├── prototypes.js
+│   ├── classes.js
+│   ├── inheritance.js
+│   ├── encapsulation.js
+│   ├── polymorphism.js
+│   └── modules.js
+│
+├── 08_advanced_js/
+│   ├── currying.js
+│   ├── memoization.js
+│   ├── regex.js
+│   ├── debouncing.js
+│   ├── throttling.js
+│   └── design_patterns.js
+│
+├── 09_dsa/
+│   ├── arrays/
+│   │   ├── linear_search.js
+│   │   └── binary_search.js
+│   ├── sorting/
+│   │   ├── bubble_sort.js
+│   │   ├── selection_sort.js
+│   │   ├── insertion_sort.js
+│   │   ├── merge_sort.js
+│   │   └── quick_sort.js
+│   ├── linked_list/
+│   ├── stack/
+│   ├── queue/
+│   ├── tree/
+│   ├── graph/
+│   └── dynamic_programming/
+│
+└── 10_projects/
+    ├── calculator/
+    ├── todo_app/
+    ├── weather_app/
+    ├── notes_app/
+    ├── ecommerce_cart/
+    ├── recipe_search/
+    └── portfolio_website/
