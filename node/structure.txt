@@ -1,0 +1,83 @@
+node-learning/
+│
+├── 01_basics/
+│   ├── install_check.js
+│   ├── hello_world.js
+│   ├── variables.js
+│   ├── datatype.js
+│   ├── modules_intro.js
+│   └── npm_commands.txt
+│
+├── 02_core_modules/
+│   ├── fs_module.js
+│   ├── http_module.js
+│   ├── path_module.js
+│   ├── os_module.js
+│   ├── events_module.js
+│   └── crypto_module.js
+│
+├── 03_async_js/
+│   ├── callbacks.js
+│   ├── promises.js
+│   ├── async_await.js
+│   └── event_loop_explained.js
+│
+├── 04_express_basics/
+│   ├── simple_server.js
+│   ├── routing.js
+│   ├── middleware.js
+│   ├── json_response.js
+│   └── error_handling.js
+│
+├── 05_rest_api/
+│   ├── product_api/
+│   │   ├── server.js
+│   │   ├── routes/
+│   │   ├── controllers/
+│   │   ├── models/
+│   │   └── utils/
+│   └── user_api/
+│       ├── server.js
+│       ├── routes/
+│       ├── controllers/
+│       └── models/
+│
+├── 06_database/
+│   ├── mongodb/
+│   │   ├── connect.js
+│   │   ├── user_model.js
+│   │   └── queries.js
+│   ├── mysql/
+│   │   ├── connect.js
+│   │   ├── queries.js
+│   └── prisma/
+│       ├── intro.md
+│       └── schema.prisma
+│
+├── 07_authentication/
+│   ├── jwt_auth.js
+│   ├── hashing_passwords.js
+│   ├── sessions.js
+│   └── cookies.js
+│
+├── 08_project_setup/
+│   ├── node_project_structure.txt
+│   ├── express_template/
+│   └── environment_variables.js
+│
+├── 09_dsa_with_js/
+│   ├── arrays.js
+│   ├── linked_list.js
+│   ├── stack.js
+│   ├── queue.js
+│   ├── tree.js
+│   ├── graph.js
+│   ├── sorting.js
+│   └── searching.js
+│
+└── 10_projects/
+    ├── todo_api/
+    ├── social_media_api/
+    ├── ecommerce_api/
+    ├── auth_api/
+    └── chat_app_socket/
