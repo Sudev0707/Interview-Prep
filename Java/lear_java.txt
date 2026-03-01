@@ -1,0 +1,87 @@
+
+
+java-learning/
+│
+├── 01_basics/
+│   ├── HelloWorld.java
+│   ├── Variables.java
+│   ├── DataTypes.java
+│   ├── Operators.java
+│   ├── InputOutput.java
+│   └── Comments.java
+│
+├── 02_control_flow/
+│   ├── IfElse.java
+│   ├── SwitchCase.java
+│   ├── Loops.java
+│   ├── BreakContinue.java
+│   └── Patterns.java
+│
+├── 03_methods/
+│   ├── MethodsIntro.java
+│   ├── MethodOverloading.java
+│   ├── Recursion.java
+│   └── StaticMethods.java
+│
+├── 04_oop/
+│   ├── ClassesObjects.java
+│   ├── Constructors.java
+│   ├── Inheritance.java
+│   ├── Polymorphism.java
+│   ├── Abstraction.java
+│   ├── Encapsulation.java
+│   ├── Interfaces.java
+│   └── Packages.java
+│
+├── 05_oop_advanced/
+│   ├── InnerClasses.java
+│   ├── Enums.java
+│   ├── Generics.java
+│   ├── Exceptions.java
+│   ├── FileHandling.java
+│   └── CollectionsFramework.java
+│
+├── 06_ds_basics/
+│   ├── Arrays.java
+│   ├── Strings.java
+│   ├── ArrayListDemo.java
+│   ├── LinkedListDemo.java
+│   ├── HashMapDemo.java
+│   └── StackQueueBasics.java
+│
+├── 07_dsa/
+│   ├── Searching/
+│   │   ├── LinearSearch.java
+│   │   └── BinarySearch.java
+│   ├── Sorting/
+│   │   ├── BubbleSort.java
+│   │   ├── SelectionSort.java
+│   │   ├── InsertionSort.java
+│   │   ├── MergeSort.java
+│   │   └── QuickSort.java
+│   ├── LinkedList/
+│   │   ├── SinglyLL.java
+│   │   └── DoublyLL.java
+│   ├── Stack/
+│   │   ├── StackArray.java
+│   │   └── StackLinkedList.java
+│   ├── Queue/
+│   │   ├── QueueArray.java
+│   │   └── CircularQueue.java
+│   ├── Trees/
+│   │   ├── BinaryTree.java
+│   │   └── BinarySearchTree.java
+│   ├── Graphs/
+│   │   ├── BFS.java
+│   │   └── DFS.java
+│   └── Heaps/
+│       ├── MinHeap.java
+│       └── MaxHeap.java
+│
+└── 08_projects/
+    ├── basic_calculator/
+    ├── student_management_system/
+    ├── bank_app/
+    ├── resume_builder/
+    ├── quiz_app/
+    └── ecommerce_backend/
